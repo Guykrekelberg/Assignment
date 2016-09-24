@@ -61,13 +61,26 @@ bijles gegeven in Wiskunde en Economie
 Werkervaring
 ====
 
+__Legato Trattoria, Designer Outlet Center te Roermond__
 Oktober 2014-heden 
-
-__Legato trattoria__, Designer Outlet Center te Roermond
 
 _Countermedewerker/ mederwerker bediening_ 
 
 Sinds oktober 2014 werk ik in de weekenden bij dit restaurant (gemiddeld 12 uur)
 Het eerste half jaar als countermedewerker, daarna in de bediening 
+
+__Mts Van Lin-Slangen te St. Odiliënberg__
+Seizoensarbeider, bij dit agrarisch bedrijf heb ik jaren voornamelijk asperge gestoken en spruiten geplant, maar ook buiten het seizoen werd ik gevraagd voor klusjes. Ook heb ik voor dit bedrijf Excel sheets gemaakt zodat er makkelijker aanwezigheid en dag resultaat genoteerd kon worden.
+
+Vaardigheden
+====
+Talen
+---
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 
 
