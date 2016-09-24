@@ -70,13 +70,17 @@ Sinds oktober 2014 werk ik in de weekenden bij dit restaurant (gemiddeld 12 uur)
 Het eerste half jaar als countermedewerker, daarna in de bediening 
 
 __Mts Van Lin-Slangen te St. Odiliënberg__
-Seizoensarbeider, bij dit agrarisch bedrijf heb ik jaren voornamelijk asperge gestoken en spruiten geplant, maar ook buiten het seizoen werd ik gevraagd voor klusjes. Ook heb ik voor dit bedrijf Excel sheets gemaakt zodat er makkelijker aanwezigheid en dag resultaat genoteerd kon worden.
+April 2009- juli 2014
+
+_Seizoensarbeider_
+
+bij dit agrarisch bedrijf heb ik jaren voornamelijk asperge gestoken en spruiten geplant, maar ook buiten het seizoen werd ik gevraagd voor klusjes. Ook heb ik voor dit bedrijf Excel sheets gemaakt zodat er makkelijker aanwezigheid en dag resultaat genoteerd kon worden.
 
 Vaardigheden
 ====
 Talen
 ---
-| Talen         | Mondeling     | Schriftelijk  |
+|               | Mondeling     | Schriftelijk  |
 | ------------- |:-------------:| :------------:|
 | Nederlands    | Uitstekend    | Uitstekend    |
 | Engels        | Uitstekend    | Uitstekend    |
