@@ -59,7 +59,9 @@ Nevenactiviteiten
 Werkervaring
 ====
 
-Oktober 2014-heden Legato, Designer Outlet Center te Roermond
+Oktober 2014-heden 
+
+__Legato trattoria__, Designer Outlet Center te Roermond
 
 Countermedewerker/ mederwerker bediening 
 
