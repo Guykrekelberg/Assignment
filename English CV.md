@@ -79,22 +79,22 @@ Skills
 Languages 
 ---
 
+Dutch:          Native 
 
-| Dutch          | Native | 
-| English        | C1     | 
-| German         | B1     | 
+English:        C1     
 
-Softwarevaardigheden
+German:          B1    
+
+Software skills
 ---
-Microsoft Excel, mee gewerkt op: 	Tilburg University, Mts Van Lin-Slangen & Lyceum  
-                                                             	Schöndeln     
+Microsoft Excel  
 
-Stata, mee gewerkt op: 	Tilburg University
+Stata
 
-Phyton, mee gewerkt op: Tilburg University 
+Phyton
 
-Github, meegewerkt op:  Tilburg university
+Github
 
-Referenties
+References
 ===
-Beschikbaar op aanvraag
+Available on request
