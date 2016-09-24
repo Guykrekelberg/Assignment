@@ -54,7 +54,9 @@ Diploma behaald Juni 2013
 
 Nevenactiviteiten
 ====
-11/2014-heden bijles gegeven in Wiskunde en Economie
+11/2014-heden 
+
+bijles gegeven in Wiskunde en Economie
 
 Werkervaring
 ====
@@ -63,7 +65,7 @@ Oktober 2014-heden
 
 __Legato trattoria__, Designer Outlet Center te Roermond
 
-Countermedewerker/ mederwerker bediening 
+_Countermedewerker/ mederwerker bediening_ 
 
 Sinds oktober 2014 werk ik in de weekenden bij dit restaurant (gemiddeld 12 uur)
 Het eerste half jaar als countermedewerker, daarna in de bediening 
