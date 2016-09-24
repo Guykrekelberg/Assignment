@@ -22,9 +22,8 @@ Rijbewijs:      B
 
 Opleidingen
 ====
-09/2016-heden   
-WO Master Economics
-----
+*09/2016-heden   
+**WO Master Economics**
 Track Competition Policy & Regulation
 Tilburg University
 
