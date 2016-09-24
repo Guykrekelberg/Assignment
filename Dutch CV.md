@@ -91,9 +91,11 @@ Softwarevaardigheden
 Microsoft Excel, mee gewerkt op: 	Tilburg University, Mts Van Lin-Slangen & Lyceum  
                                                              	Schöndeln     
 
-Stata, mee gewerkt op: 		Tilburg University
+Stata, mee gewerkt op: 	Tilburg University
 
-Phyton, mee gewerkt op: 		Tilburg University 
+Phyton, mee gewerkt op: Tilburg University 
+
+Github, meegewerkt op:  Tilburg university
 
 Referenties
 ===
