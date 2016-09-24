@@ -1,7 +1,7 @@
 Curriculum Vitae
 ======
 
-personal information
+Personal information
 ----
 
 Name:           Guy Krekelberg
