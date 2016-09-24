@@ -21,24 +21,35 @@ E-mailadres:    guykrekelberg@hotmail.com
 Rijbewijs:      B
 
 Opleidingen
-====
-*09/2016-heden   
-__WO Master Economics__
+====   
+WO Master Economics
+---
+09/2016-heden
+
 Track Competition Policy & Regulation
+
 Tilburg University
 
-09/2013-07/2016  
+  
 WO Bachelor Economics & Business Economics 
 ----
+09/2013-07/2016
+
 Tilburg University
+
 Propedeuse behaald in Juni 2014
+
 Diploma behaald Juli 2027, met genoegen (gem cijfer 7,73)
 
-08/2007- 06/2013  
+  
 VWO Economie & Maatschappij
 ----
+08/2007- 06/2013
+
 extra vakken Natuurkunde en Wiskunde B
+
 Lyceum Schöndeln te Roermond
+
 Diploma behaald Juni 2013
 
 Nevenactiviteiten
@@ -47,9 +58,12 @@ Nevenactiviteiten
 
 Werkervaring
 ====
+
 Oktober 2014-heden Legato, Designer Outlet Center te Roermond
+
 Countermedewerker/ mederwerker bediening 
-sinds oktober 2014 werk ik in de weekenden bij dit restaurant.
-Het eerste half jaar als countermedewerker, daarna in de bediening (gemiddeld 12 uur)
+
+Sinds oktober 2014 werk ik in de weekenden bij dit restaurant (gemiddeld 12 uur)
+Het eerste half jaar als countermedewerker, daarna in de bediening 
 
 
