@@ -7,3 +7,6 @@ The 'Python assignment.ipynb' file is the assignment.
 The data for the plotly graph can be found in the 'marketshareoudnieuw.csv' file.
 
 Therefore we recommend to download these two files and run it yourself in jupyter notebook!
+
+We hope you enjoy reading it!
+Miguel van de Goor, Joost Melchers & Guy Krekelberg
